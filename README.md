@@ -1,5 +1,5 @@
 # AdWords-Hourly-Bid-Optimization
-Google Script with corresponding Google Sheet template to optimize your bids by day of week + hour in AdWords
+Google Script with corresponding Google Sheet template to optimize your bids by day of week + hour in AdWords. This script was based on the fine work by Daniel Gilbert @danielgilbert44 at BrainLabsDigital.com (http://searchengineland.com/adwords-bidding-thats-4-times-responsive-google-marin-kenshoo-207877)
 
 This script was featured on Envoy's Digital Power Plays YouTube channel in Episode 2.
 
