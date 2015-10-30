@@ -1,2 +1,21 @@
 # AdWords-Hourly-Bid-Optimization
 Google Script with corresponding Google Sheet template to optimize your bids by day of week + hour in AdWords
+
+This script was featured on Envoy's Digital Power Plays YouTube channel in Episode 2.
+
+Watch the video and then skip to X:XX to watch the screencast of how to add it to your AdWords account.
+
+You will need to create your own Google Sheet from this template: https://docs.google.com/spreadsheets/d/1Q1p4N8Tm_OMsbtk9JEu0LrFdPFLxdkQe4W-6nx8Eh48/edit?usp=sharing
+
+For some reason, copying and pasting the above template removes the conditional formatting on the cells so they can have red and green colors for bidding up and down. If you want that ability you will need to add it yourself with the following rules:
+
+* _Apply all rules to range: B2:H25,K2_
+
+1. Value is between 0.01 and 0.49 => light green with black text
+2. Value is greater than or equal to 0.5 => dark green with white text
+3. Value is between -0.01 and -0.49 => light red with black text
+4. Value is less than or equal to -0.5 => dark red with white text
+
+Afterwards, your conditional formatting rules should look like this:
+
+![conditional formatting](http://i.imgur.com/3pZ2Ult.png)
