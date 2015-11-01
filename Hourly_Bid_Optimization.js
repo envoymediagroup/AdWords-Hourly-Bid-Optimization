@@ -49,8 +49,8 @@ function main() {
 
     //Optional parameters for filtering campaign names.
     //Leave blank to use filters. The matching is case insensitive.
-    var excludeCampaignNameContains = ["Foo", "Bar"]; //Select which campaigns to exclude. Leave blank to not exclude any campaigns.
     var includeCampaignNameContains = ["Lorem" ,"Ipsum"]; //Select which campaigns to include. Leave blank to include all campaigns.
+    var excludeCampaignNameContains = ["Foo", "Bar"]; //Select which campaigns to exclude. Leave blank to not exclude any campaigns.
 
     //When you want to stop running the ad scheduling for good, set
     //the lastRun variable to true to remove all ad schedules.
