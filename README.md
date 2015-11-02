@@ -5,7 +5,7 @@ This script was featured on Envoy's Digital Power Plays YouTube channel in Episo
 
 https://youtu.be/gTEjcx81tzg
 
-Watch the video and then skip to 17:50 to watch the screencast of how to add it to your AdWords account.
+The how to section starts at 17:50 in the above video or watch the how to video on its own: https://youtu.be/HpnI36Y-Eng
 
 You will need to create your own Google Sheet from this template: https://docs.google.com/spreadsheets/d/1Q1p4N8Tm_OMsbtk9JEu0LrFdPFLxdkQe4W-6nx8Eh48/edit?usp=sharing
 
