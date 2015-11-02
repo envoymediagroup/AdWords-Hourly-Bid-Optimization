@@ -2,8 +2,9 @@
 Google Script with corresponding Google Sheet template to optimize your bids by day of week + hour in AdWords. This script was based on the fine work by Daniel Gilbert @danielgilbert44 at BrainLabsDigital.com (http://searchengineland.com/adwords-bidding-thats-4-times-responsive-google-marin-kenshoo-207877)
 
 This script was featured on Envoy's Digital Power Plays YouTube channel in Episode 2.
+https://youtu.be/gTEjcx81tzg
 
-Watch the video and then skip to X:XX to watch the screencast of how to add it to your AdWords account.
+Watch the video and then skip to 17:50 to watch the screencast of how to add it to your AdWords account.
 
 You will need to create your own Google Sheet from this template: https://docs.google.com/spreadsheets/d/1Q1p4N8Tm_OMsbtk9JEu0LrFdPFLxdkQe4W-6nx8Eh48/edit?usp=sharing
 
